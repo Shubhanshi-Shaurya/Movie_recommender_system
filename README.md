@@ -23,7 +23,9 @@ A Movie Recommender System built using **Machine Learning** that suggests movies
 ```text
 movie_recommender_system/
 ├── .venv     
-├── movie_recommend_dataset           
+├── movie_recommend_dataset
+|  ├── tmdb_5000_credits.csv
+|  └── tmdb_5000_movies.csv             
 ├── app.py             
 ├── movie_dict.pkl
 ├── movies.pkl
