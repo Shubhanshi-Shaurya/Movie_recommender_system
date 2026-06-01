@@ -5,7 +5,7 @@ A Movie Recommender System built using **Machine Learning** that suggests movies
 ---
 
 ##  Live Demo
-You can access the live web application here: [Book Recommender System](https://movie-recommender-system-cdky.onrender.com)
+You can access the live web application here: [Movie Recommender System](https://movie-recommender-system-cdky.onrender.com)
 
 ---
 
